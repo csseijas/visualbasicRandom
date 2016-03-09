@@ -1,0 +1,52 @@
+C:\Documents and Settings\Alumno\Configuración local\Datos de programa\Temporary Projects\23_RandomClientes\bin\Debug\23_RandomClientes.exe
+C:\Documents and Settings\Alumno\Configuración local\Datos de programa\Temporary Projects\23_RandomClientes\bin\Debug\23_RandomClientes.pdb
+C:\Documents and Settings\Alumno\Configuración local\Datos de programa\Temporary Projects\23_RandomClientes\bin\Debug\23_RandomClientes.xml
+C:\Documents and Settings\Alumno\Configuración local\Datos de programa\Temporary Projects\23_RandomClientes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alumno\Configuración local\Datos de programa\Temporary Projects\23_RandomClientes\obj\x86\Debug\_23_RandomClientes.frm_ClientesAleatorio.resources
+C:\Documents and Settings\Alumno\Configuración local\Datos de programa\Temporary Projects\23_RandomClientes\obj\x86\Debug\_23_RandomClientes.Resources.resources
+C:\Documents and Settings\Alumno\Configuración local\Datos de programa\Temporary Projects\23_RandomClientes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Alumno\Configuración local\Datos de programa\Temporary Projects\23_RandomClientes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Alumno\Configuración local\Datos de programa\Temporary Projects\23_RandomClientes\obj\x86\Debug\23_RandomClientes.exe
+C:\Documents and Settings\Alumno\Configuración local\Datos de programa\Temporary Projects\23_RandomClientes\obj\x86\Debug\23_RandomClientes.xml
+C:\Documents and Settings\Alumno\Configuración local\Datos de programa\Temporary Projects\23_RandomClientes\obj\x86\Debug\23_RandomClientes.pdb
+C:\Documents and Settings\Alumno\mis documentos\visual studio 2010\Projects\23_RandomClientes\23_RandomClientes\obj\x86\Debug\23_RandomClientes.exe
+C:\Documents and Settings\Alumno\mis documentos\visual studio 2010\Projects\23_RandomClientes\23_RandomClientes\obj\x86\Debug\23_RandomClientes.xml
+C:\Documents and Settings\Alumno\mis documentos\visual studio 2010\Projects\23_RandomClientes\23_RandomClientes\obj\x86\Debug\23_RandomClientes.pdb
+C:\Documents and Settings\Alumno\mis documentos\visual studio 2010\Projects\23_RandomClientes\23_RandomClientes\bin\Debug\23_RandomClientes.exe
+C:\Documents and Settings\Alumno\mis documentos\visual studio 2010\Projects\23_RandomClientes\23_RandomClientes\bin\Debug\23_RandomClientes.pdb
+C:\Documents and Settings\Alumno\mis documentos\visual studio 2010\Projects\23_RandomClientes\23_RandomClientes\bin\Debug\23_RandomClientes.xml
+C:\Documents and Settings\Alumno\mis documentos\visual studio 2010\Projects\23_RandomClientes\23_RandomClientes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alumno\mis documentos\visual studio 2010\Projects\23_RandomClientes\23_RandomClientes\obj\x86\Debug\_23_RandomClientes.frm_ClientesAleatorio.resources
+C:\Documents and Settings\Alumno\mis documentos\visual studio 2010\Projects\23_RandomClientes\23_RandomClientes\obj\x86\Debug\_23_RandomClientes.Resources.resources
+C:\Documents and Settings\Alumno\mis documentos\visual studio 2010\Projects\23_RandomClientes\23_RandomClientes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Alumno\mis documentos\visual studio 2010\Projects\23_RandomClientes\23_RandomClientes\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\23_RandomClientes\23_RandomClientes\obj\x86\Debug\23_RandomClientes.exe
+G:\23_RandomClientes\23_RandomClientes\obj\x86\Debug\23_RandomClientes.xml
+G:\23_RandomClientes\23_RandomClientes\obj\x86\Debug\23_RandomClientes.pdb
+G:\23_RandomClientes\23_RandomClientes\bin\Debug\23_RandomClientes.exe
+G:\23_RandomClientes\23_RandomClientes\bin\Debug\23_RandomClientes.pdb
+G:\23_RandomClientes\23_RandomClientes\bin\Debug\23_RandomClientes.xml
+G:\23_RandomClientes\23_RandomClientes\obj\x86\Debug\_23_RandomClientes.frm_ClientesAleatorio.resources
+G:\23_RandomClientes\23_RandomClientes\obj\x86\Debug\_23_RandomClientes.Resources.resources
+G:\23_RandomClientes\23_RandomClientes\obj\x86\Debug\23_RandomClientes.vbproj.GenerateResource.Cache
+C:\Users\Kerouac\Desktop\23_RandomClientes\23_RandomClientes\obj\x86\Debug\23_RandomClientes.exe
+C:\Users\Kerouac\Desktop\23_RandomClientes\23_RandomClientes\obj\x86\Debug\23_RandomClientes.xml
+C:\Users\Kerouac\Desktop\23_RandomClientes\23_RandomClientes\obj\x86\Debug\23_RandomClientes.pdb
+C:\Users\Kerouac\Desktop\23_RandomClientes\23_RandomClientes\bin\Debug\23_RandomClientes.exe
+C:\Users\Kerouac\Desktop\23_RandomClientes\23_RandomClientes\bin\Debug\23_RandomClientes.pdb
+C:\Users\Kerouac\Desktop\23_RandomClientes\23_RandomClientes\bin\Debug\23_RandomClientes.xml
+C:\Users\Kerouac\Desktop\23_RandomClientes\23_RandomClientes\obj\x86\Debug\_23_RandomClientes.frm_ClientesAleatorio.resources
+C:\Users\Kerouac\Desktop\23_RandomClientes\23_RandomClientes\obj\x86\Debug\_23_RandomClientes.Resources.resources
+C:\Users\Kerouac\Desktop\23_RandomClientes\23_RandomClientes\obj\x86\Debug\23_RandomClientes.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Alumno\Escritorio\23_RandomClientes\23_RandomClientes\obj\x86\Debug\23_RandomClientes.exe
+C:\Documents and Settings\Alumno\Escritorio\23_RandomClientes\23_RandomClientes\obj\x86\Debug\23_RandomClientes.xml
+C:\Documents and Settings\Alumno\Escritorio\23_RandomClientes\23_RandomClientes\obj\x86\Debug\23_RandomClientes.pdb
+C:\Documents and Settings\Alumno\Escritorio\23_RandomClientes\23_RandomClientes\bin\Debug\23_RandomClientes.exe
+C:\Documents and Settings\Alumno\Escritorio\23_RandomClientes\23_RandomClientes\bin\Debug\23_RandomClientes.pdb
+C:\Documents and Settings\Alumno\Escritorio\23_RandomClientes\23_RandomClientes\bin\Debug\23_RandomClientes.xml
+C:\Documents and Settings\Alumno\Escritorio\23_RandomClientes\23_RandomClientes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alumno\Escritorio\23_RandomClientes\23_RandomClientes\obj\x86\Debug\_23_RandomClientes.frm_ClientesAleatorio.resources
+C:\Documents and Settings\Alumno\Escritorio\23_RandomClientes\23_RandomClientes\obj\x86\Debug\_23_RandomClientes.Resources.resources
+C:\Documents and Settings\Alumno\Escritorio\23_RandomClientes\23_RandomClientes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Alumno\Escritorio\23_RandomClientes\23_RandomClientes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Alumno\Escritorio\23_RandomClientes\23_RandomClientes\obj\x86\Debug\_23_RandomClientes.frmExportar.resources
